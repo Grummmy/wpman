@@ -1,0 +1,14 @@
+# DAMN! what's that?
+# this is another one of my projects,
+# hope its done by the time you read this
+
+# Repo link: https://github.com/Grummmy/spm
+# go check it out, its really cool and ambitious
+
+name = "wp-man"
+version = "1.0.0-release"
+description = "WallPaper MANager. Set, preview, restore, set random wallpaper and get current wallpaper with custom commands supporting placeholders."
+author = "gigch"
+license = "GPL v3.0"
+language = "go"
+tags = ["util", "linux", "wallpaper"]
