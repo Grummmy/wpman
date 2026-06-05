@@ -5,7 +5,7 @@ Most linux distros have wallpapers. Hyprland users might prefer [awww](https://c
 If you want to randomise your wallpaper - you write a custom script. If you want to preview the wallpaper in use and then revert back - you write a custom script. If you want to get current wallpaper image - you write a custom wrapper script around your wallpaper app. And I created a (almost) universal solution - WPMAN.
 
 #### Can I use it?
-Basically, the program is cross-platform, since it's written in Go. But, in order to work WPMAN runs shell commands to change wallpaper. Real requirements for it to work are a shell and a way to change wallpaper with a command. Most Linux distros should be fine, tho.
+Basically, the program is cross-platform, since it's written in Go. But, in order to work WPMAN runs shell commands to change wallpaper. Real requirements for it to work are a shell (ex. bash) and a way to change wallpaper with a command. Most Linux distros should be fine, tho.
 
 ## Features
 - Set wallpaper and save it
